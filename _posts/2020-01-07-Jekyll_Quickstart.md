@@ -5,6 +5,7 @@ date: 2020-01-07
 categories: technology
 tags: [web, GitHub, Jekyll]
 comments: true
+excerpt: 这个网站是怎么来的
 ---
 
 > 天下 ~~苦秦~~ 阅吃屉之部落格久矣。  
