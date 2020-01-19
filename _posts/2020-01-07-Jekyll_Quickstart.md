@@ -3,7 +3,7 @@ layout: post
 title: 真男人就要干高达 —— GitHub Pages 托管 Jekyll 静态站点部署实录
 date: 2020-01-07
 categories: technology
-tags: web,GitHub,Jekyll
+tags: web, GitHub, Jekyll
 ---
 
 > 天下 ~~苦秦~~ 阅吃屉之部落格久矣。  
