@@ -6,8 +6,6 @@ categories: technology
 tags: web,GitHub,Jekyll
 ---
 
-# 真男人就要干高达 —— GitHub Pages 托管 Jekyll 静态站点部署实录
-
 > 天下 ~~苦秦~~ 阅吃屉之部落格久矣。  
 
 > 给俺也整一个呗。
