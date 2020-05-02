@@ -40,7 +40,7 @@ Bookmark Sidebar，顾名思义，通过侧边栏展示Chrome书签。见过简�
 
 ![触发侧边栏](https://chensunuoft.github.io/new_blog/images/2020-05/bookmarks_sidebar_trigger.jpg)
 
-当鼠标指针移动至画面右侧时，弹出一个（被我改得）巨宽的触发条，单击即可展开书签栏。快捷键`Ctrl+B`，或`Ctrl+T`/`Ctrl+B`唤出新标签/窗口时也可展开书签栏。
+当鼠标指针移动至画面右侧时，弹出一个（被我改得）巨宽的触发条，单击即可展开书签栏。快捷键`Ctrl+B`，或`Ctrl+T`/`Ctrl+N`唤出新标签/窗口时也可展开书签栏。
 
 ![打开的书签栏](https://chensunuoft.github.io/new_blog/images/2020-05/bookmarks_sidebar.jpg)
 
