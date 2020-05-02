@@ -6,6 +6,7 @@ categories: [technology]
 tags: [Chrome, bookmarks, efficiency]
 comments: true
 toc: true
+excerpt: 一屋不扫何以扫天下
 ---
 
 ## 引言
