@@ -64,7 +64,7 @@ excerpt: One Day Day的，就知道 play games
   游戏名~~显然~~很可能承袭自大名鼎鼎的Dragon Quest（勇者斗恶龙）系列，然而官方译名*猫咪斗恶龙*并没有体现出双关性，故自作主张翻译之。画风可爱，战斗简单，2代支持本地联机。  
   ![CatQuest](https://chensunuoft.github.io/new_blog/images/completed_games/CatQuest.jpg)
 
-- **Pokémon Sword (宝可梦 盾)** Nintendo Switch
+- **Pokémon Shield (宝可梦 盾)** Nintendo Switch
 
   成为联盟冠军：2019-11-30 全图鉴：2020-1-12  
   我永远喜欢宠物小精灵。
