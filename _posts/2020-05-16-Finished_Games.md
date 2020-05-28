@@ -101,3 +101,15 @@ excerpt: One Day Day的，就知道 play games
   此系列的前三代发行于1991-1994年？真·比我还老系列。复古街机、横版清关，虽然我不来自那个时代，但爽快的打击感似乎可以将30年前年轻人的快乐传递给我。  
   ![怒之铁拳4](https://chensunuoft.github.io/new_blog/images/completed_games/Streets-of-Rage-4.jpg)
 
+- **Hearthstone (炉石传说)** PC平台（战网-国服）
+
+  竞技场12胜：（记不清了）  
+  标准模式-天梯传说：2020-5-27  
+  说来我也是从8费炎爆那个时代过来的老玩家了，十分佛系地历经了这么多版本，总算是在天梯改版之后冲上了标准模式的传说。至于竞技场，个人玩得实在是少，只在骨魇、刺杀花那个版本打过一次12胜，实为惭愧。
+  ![炉石](https://chensunuoft.github.io/new_blog/images/completed_games/Hearthstone.jpg)
+
+- **Minecraft Dungeons (我的世界地下城)** PC平台(XGP) 默认难度通关：2020-5-28
+
+  与其说是MC的衍生作，不如说是以MC世界观为背景的类暗黑RPG。游戏内容不算丰富，但操作手感尚可，默认难度通关后还有两个更高难度（以及更好的装备）以供刷刷刷。笔者通关之时，已有0.76%的玩家通关了最高难度Boss，恐怖如斯。
+
+  ![MC地下城](https://chensunuoft.github.io/new_blog/images/completed_games/Minecraft-Dungeons.jpg)
