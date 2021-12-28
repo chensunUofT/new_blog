@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 记录2019年以来通关的游戏
-date: 2020-05-16
+title: 记录2019年以来通关的游戏 （2021.12更新）
+date: 2021-12-28
 categories: [game]
 tags: []
 comments: true
@@ -113,3 +113,23 @@ excerpt: One Day Day的，就知道 play games
   与其说是MC的衍生作，不如说是以MC世界观为背景的类暗黑RPG。游戏内容不算丰富，但操作手感尚可，默认难度通关后还有两个更高难度（以及更好的装备）以供刷刷刷。笔者通关之时，已有0.76%的玩家通关了最高难度Boss，恐怖如斯。
 
   ![MC地下城](https://chensunuoft.github.io/new_blog/images/completed_games/Minecraft-Dungeons.jpg)
+
+- **A Way Out (逃出生天)** Xbox One 通关：2020-6-20
+
+  暴躁老哥Josef Fares的第二部作品（另外两部后边会提到），分屏合作类，剧情精彩，镜头语言更是优秀。时而肖申克，时而给他爱，甚是精彩，好像是一晚上一口气就打通了。当时是Thomas在Xbox上买来玩的，所以我只蹭到了两个成就...
+
+  ![逃出生天](https://chensunuoft.github.io/new_blog/images/completed_games/A-Way-Out.JPG)
+
+- **Brothers - A Tale of Two Sons （双子传说）** Steam平台 通关：2021-10-15
+
+  Josef Fares的游戏处女座，《逃出生天》和《双人成行》的老大哥。很久之前听说了这个“单手柄控制双角色”的新奇想法便买了下来，但直到玩起了《双人成行》才把它从Steam库里翻出来花了几个小时打通。流程很短，却能（从马后炮的视角）看出不少《逃出生天》与《双人成行》的“影子”。如果你像我一样喜欢《双人成行》，那Fares的另外两部作品也不妨尝试一下。
+
+  ![双子传说](https://chensunuoft.github.io/new_blog/images/completed_games/Brothers-A-Tale-of-Two-Sons.JPG)
+
+- **It takes Two（双人成行）** Xbox One 通关：2021-12-26
+
+  出自Josef Fares的2021年度Game of the Year，可能是史上最优秀的双人合作游戏。内容丰富，手感优秀，令人大呼过瘾，甚至某些时刻有种打WoW团本的感觉。不管是打遍各类游戏的老司机，还是初出茅庐的小菜鸟，都能找到最真实的快乐。实体光碟我可能会收藏吧。
+
+  ![双人成行](https://chensunuoft.github.io/new_blog/images/completed_games/It-Takes-Two.jpg)
+
+  
