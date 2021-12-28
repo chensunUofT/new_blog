@@ -120,6 +120,24 @@ excerpt: One Day Day的，就知道 play games
 
   ![逃出生天](https://chensunuoft.github.io/new_blog/images/completed_games/A-Way-Out.JPG)
 
+- **Pikmin 3 Deluxe （皮克敏3豪华版）** Nintendo Switch 通关：2021-02-20
+
+  任天堂+即时战略，双倍的快乐。不得不说，老任在“强化正面激励”+“弱化负面反馈”这方面做得极佳，能让人以愉悦的心情享受游戏。关卡不长却又不失挑战性，可以说是很典型的任天堂游戏了。
+
+  ![皮克敏](https://chensunuoft.github.io/new_blog/images/completed_games/Pikmin3.jpg)
+
+- **Super Mario Galaxy （超级马力欧银河）** Nintendo Switch 通关：2021-05-31
+
+  久仰3D马大名，于是在马里奥系列35周年之际入手了这部限时发行的《3D全明星》。其中的3D开山作《超马64》（1996）因年代过于久远以致难以上手，承上启下之作《超马阳光》（2002）手感仍略显奇怪，而发行于2007年的集大成者《超马银河》在我看来则是不容错过的佳作。不论是关卡设计还是游戏创意，在十余年后的今天看来仍毫不过时。
+
+  ![超马银河](https://chensunuoft.github.io/new_blog/images/completed_games/SuperMarioGalaxy.jpg)
+
+- **Mario Golf: Super Run （马力欧高尔夫 超级冲冲冲）** Nintendo Switch 通关：2021-08-13
+
+  马力欧+高尔夫，这个组合看上去略显奇怪，但上手之后还是难免“真香”。并不陡峭的难度曲线使得我这样的高尔夫游戏新手玩家都能顺利通关，而多人对战则显然需要更多同水平的玩家以及更丰富的经验。
+
+  ![马里奥高尔夫](https://chensunuoft.github.io/new_blog/images/completed_games/Mario-Golf.jpg)
+
 - **Brothers - A Tale of Two Sons （双子传说）** Steam平台 通关：2021-10-15
 
   Josef Fares的游戏处女座，《逃出生天》和《双人成行》的老大哥。很久之前听说了这个“单手柄控制双角色”的新奇想法便买了下来，但直到玩起了《双人成行》才把它从Steam库里翻出来花了几个小时打通。流程很短，却能（从马后炮的视角）看出不少《逃出生天》与《双人成行》的“影子”。如果你像我一样喜欢《双人成行》，那Fares的另外两部作品也不妨尝试一下。
@@ -130,6 +148,6 @@ excerpt: One Day Day的，就知道 play games
 
   出自Josef Fares的2021年度Game of the Year，可能是史上最优秀的双人合作游戏。内容丰富，手感优秀，令人大呼过瘾，甚至某些时刻有种打WoW团本的感觉。不管是打遍各类游戏的老司机，还是初出茅庐的小菜鸟，都能找到最真实的快乐。实体光碟我可能会收藏吧。
 
-  ![双人成行](https://chensunuoft.github.io/new_blog/images/completed_games/It-Takes-Two.jpg)
+  ![双人成行](https://chensunuoft.github.io/new_blog/images/completed_games/It-Takes-Two.JPG)
 
   
